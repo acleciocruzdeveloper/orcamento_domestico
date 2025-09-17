@@ -11,7 +11,7 @@
 	<groupId>br.com.acleciocruz</groupId>
 	<artifactId>budget-service</artifactId>
 	<version>0.0.1</version>
-	<name>${artifactId}</name>
+	<name>budget-service</name>
 	<description>Project for budget domestic</description>
 	<properties>
 		<java.version>21</java.version>
