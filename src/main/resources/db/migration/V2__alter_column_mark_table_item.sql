@@ -1,0 +1,2 @@
+ALTER TABLE budget_service.item
+ALTER COLUMN mark SET DATA TYPE VARCHAR(100);
